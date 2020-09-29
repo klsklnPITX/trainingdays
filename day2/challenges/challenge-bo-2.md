@@ -85,7 +85,7 @@ To deploy the function follow these steps:
 - in the Functions section, choose your Azure Function you created previously
 - right-click on it, choose "Deploy to Function App..."
 
-Deployment of you function starts and after a few seconds, it is running in Azure. You can close that window now.
+Deployment of your function starts and after a few seconds, it is running in Azure. You can close that window now.
 
 ### Deploy the Azure Web App providing the API to store images
 
