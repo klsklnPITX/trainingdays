@@ -360,7 +360,7 @@ Here's the template:
 }
 ```
 
-I'd like to point you attention to a few new things here. First and foremost, we defined **dependencies** in the template. Have a look at the _WebApp_ resource.
+I'd like to point your attention to a few new things here. First and foremost, we defined **dependencies** in the template. Have a look at the _WebApp_ resource.
 
 ```json
 "dependsOn": [
